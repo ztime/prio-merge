@@ -1,0 +1,15 @@
+*.swp
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution
+build/
+dist/
+eggs/
+wheels/
+share/python-wheels/
+*.egg-info
+*.egg
+.installed.cfg
