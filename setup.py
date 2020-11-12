@@ -4,11 +4,11 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="prio_merge",  # Replace with your own username
+    name="prio_merge",
     version="0.0.1",
     author="Jonas Wedin",
     author_email="jonas@lechuck.se",
-    description="Deep merge two dicts, with one",
+    description="Merge nested dicts according to a few specific rules",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/ztime/prio-merge",
