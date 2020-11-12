@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="prio_merge",
-    version="0.0.1",
+    version="0.0.2",
     author="Jonas Wedin",
     author_email="jonas@lechuck.se",
     description="Merge nested dicts according to a few specific rules",
